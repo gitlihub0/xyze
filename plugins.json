@@ -66,7 +66,7 @@
         "jarHash": "sha256-677bced9dbd526176ede5a77f65df4b9eea8c410cabe1a224ddc9aa6618d9c45"
     },
     {
-        "url": "https://raw.githubusercontent.com/gitlihub0/try/builds/int.cs3",
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/int.cs3",
         "status": 1,
         "version": 3,
         "name": "inat-box",
@@ -76,7 +76,7 @@
         ],
         "description": "InatBox",
         "fileSize": 55860,
-        "repositoryUrl": "https://github.com/gitlihub0/try",
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "apiVersion": 1,
         "fileHash": "sha256-D10AA76DC4BBC15EEA4DB3ADEB0F3B5FB468609FE5A10B7014EF6CD5408C3EDB"
