@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/AnimeciX.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "AnimeciX",
+        "internalName": "AnimeciX",
+        "authors": [
+            "qwert"
+        ],
+        "description": "AnimeciX.",
+        "fileSize": 22832,
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
+        "language": "tr",
+        "tvTypes": [
+            "Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-b6b646acb334c461c12d3fa8032267a68e1a292982f0002641cdfb8568fb897b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Anizium.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Anizium",
+        "internalName": "Anizium",
+        "authors": [
+            "qwer"
+        ],
+        "description": "4K Anime.",
+        "fileSize": 37297,
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
+        "language": "tr",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://anizium.com/assets/images/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-59cd6f0568513c47f9c70b102105dd2838857add44b66318d0aefa1cc7a71d9e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/You.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "You",
+        "internalName": "You",
+        "authors": [
+            "KaifTaufiq"
+        ],
+        "description": "Youtube \u0130zle",
+        "fileSize": 14102,
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
+        "tvTypes": [
+            "Other",
+            "Live",
+            "TvSeries"
+        ],
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-4fea03c1615a9537faabcffe7463aecdaa56c126248e596d256f3715fde70e9d",
+        "jarFileSize": 47802,
+        "jarUrl": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/You.jar",
+        "jarHash": "sha256-677bced9dbd526176ede5a77f65df4b9eea8c410cabe1a224ddc9aa6618d9c45"
+    }
+]
