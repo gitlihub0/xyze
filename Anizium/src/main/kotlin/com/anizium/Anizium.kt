@@ -7,7 +7,7 @@ import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 import com.lagradost.cloudstream3.utils.AppUtils.toJson
 
 class Anizium : MainAPI() {
-    override var mainUrl = "https://anizium.com"
+    override var mainUrl = "https://anizium.co"
     private val apiUrl = "https://api.anizium.co"
     override var name = "Anizium"
     override val hasMainPage = true
