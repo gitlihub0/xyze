@@ -22,7 +22,7 @@
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Anizium.cs3",
         "status": 1,
-        "version": 3,
+        "version": 2,
         "name": "Anizium",
         "internalName": "Anizium",
         "authors": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://anizium.com/assets/images/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-59cd6f0568513c47f9c70b102105dd2838857add44b66318d0aefa1cc7a71d9e"
+        "fileHash": "sha256-c9173a78637a1c44d317c9b9e4be99353ef3d7bb511b431c2b9c822d85ac5ca5"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/You.cs3",
