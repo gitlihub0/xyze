@@ -29,7 +29,7 @@
             "qwer"
         ],
         "description": "4K Anime.",
-        "fileSize": 38383,
+        "fileSize": 39685,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://anizium.com/assets/images/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c9173a78637a1c44d317c9b9e4be99353ef3d7bb511b431c2b9c822d85ac5ca5"
+        "fileHash": "sha256-e6be94e166e976e2e89ded04a77c9b6b9c6dd4aa939f8d36c5e07e809699b020"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/You.cs3",
