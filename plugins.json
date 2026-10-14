@@ -109,6 +109,26 @@
         "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746"
     },
     {
+        "url": "https://raw.githubusercontent.com/gitlihub0/ezyx/builds/ddizi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ddizi",
+        "internalName": "ddizi",
+        "authors": [
+            "qwert"
+        ],
+        "description": "Ddizi",
+        "fileSize": 24339,
+        "repositoryUrl": "https://github.com/gitlihub0/ezyx",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.ddizi.tel/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-b3eaeb0b0969964293316fb2e1b11c0752d5d978eb85391b7a56b1efe26866a2"
+    },
+    {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Turkdizileri.cs3",
         "status": 1,
         "version": 37,
