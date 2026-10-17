@@ -118,7 +118,7 @@
             "qwert"
         ],
         "description": "Ddizi",
-        "fileSize": 37879,
+        "fileSize": 39144,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://www.ddizi.tel/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-d0f43689bb191dfcc50ed5890f6b5c60b482201abf2b62ecaa57a5a0c76d1eb5"
+        "fileHash": "sha256-83d7c2f7123b7b22d4e2591f24ec5fe290eae2a22055f0101a22e5cd17ebcc22"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/fullhdfilm.cs3",
@@ -138,14 +138,14 @@
             "qwert"
         ],
         "description": "FullHDFilmizlesene",
-        "fileSize": 51450,
+        "fileSize": 57087,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "Movie"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-cd25528454e58998b672129573d667bee0ba9656937c81f6d1f3e35a48c633c7"
+        "fileHash": "sha256-8d23db8bc38ad8789635b921a1c0b76f60d5a19e70b9328fc35a5bc1a5b229bc"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Turkdizileri.cs3",
