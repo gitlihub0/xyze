@@ -109,9 +109,9 @@
         "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746"
     },
     {
-        "url": "https://raw.githubusercontent.com/gitlihub0/ezyx/builds/ddizi.cs3",
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/ddizi.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "ddizi",
         "internalName": "ddizi",
         "authors": [
@@ -119,7 +119,7 @@
         ],
         "description": "Ddizi",
         "fileSize": 37879,
-        "repositoryUrl": "https://github.com/gitlihub0/ezyx",
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "TvSeries"
@@ -129,7 +129,7 @@
         "fileHash": "sha256-d0f43689bb191dfcc50ed5890f6b5c60b482201abf2b62ecaa57a5a0c76d1eb5"
     },
     {
-        "url": "https://raw.githubusercontent.com/gitlihub0/ezyx/builds/fullhdfilm.cs3",
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/fullhdfilm.cs3",
         "status": 1,
         "version": 3,
         "name": "fullhdfilm",
@@ -139,7 +139,7 @@
         ],
         "description": "FullHDFilmizlesene",
         "fileSize": 51450,
-        "repositoryUrl": "https://github.com/gitlihub0/ezyx",
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "Movie"
