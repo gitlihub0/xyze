@@ -20,7 +20,7 @@
         "fileHash": "sha256-b6b646acb334c461c12d3fa8032267a68e1a292982f0002641cdfb8568fb897b"
     },
     {
-        "url": "https://raw.githubusercontent.com/gitlihub0/ezyx/builds/Anizium.cs3",
+        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Anizium.cs3",
         "status": 1,
         "version": 4,
         "name": "Anizium",
@@ -30,7 +30,7 @@
         ],
         "description": "4K Anime.",
         "fileSize": 52682,
-        "repositoryUrl": "https://github.com/gitlihub0/ezyx",
+        "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "Anime",
