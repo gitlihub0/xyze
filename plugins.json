@@ -29,7 +29,7 @@
             "qwer"
         ],
         "description": "4K Anime.",
-        "fileSize": 52682,
+        "fileSize": 53127,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://anizium.com/assets/images/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9c28058c7f0603ba0bdd2d70987395455a86f59fb4c614eaedf881e569e3b231"
+        "fileHash": "sha256-bdb0b0ad0b1be69b9d95d38ca9899fc3acb1d6ed7d11b751035c3265a5765c95"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/You.cs3",
@@ -118,7 +118,7 @@
             "qwert"
         ],
         "description": "Ddizi",
-        "fileSize": 39144,
+        "fileSize": 39583,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://www.ddizi.tel/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-83d7c2f7123b7b22d4e2591f24ec5fe290eae2a22055f0101a22e5cd17ebcc22"
+        "fileHash": "sha256-83a1f92f4a6ca6cdc1a410c3260fb06951b401657c1be1762c4fee39fe502d88"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/fullhdfilm.cs3",
@@ -138,14 +138,15 @@
             "qwert"
         ],
         "description": "FullHDFilmizlesene",
-        "fileSize": 57013,
+        "fileSize": 57452,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "Movie"
         ],
+        "iconUrl": "https://www.fullhdfilmizlesene.now/android-chrome-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ff4efa81723934515a62d7f7f4d69c18f902d563b7242551bf6c3f38e28d10dc"
+        "fileHash": "sha256-51d5a9bcccdaa4c5c514e4824860b2fb0605d348cc5e0dde18b0f5d7641d2cdd"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Turkdizileri.cs3",
