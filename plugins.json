@@ -131,21 +131,21 @@
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/fullhdfilm.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "fullhdfilm",
         "internalName": "fullhdfilm",
         "authors": [
             "qwert"
         ],
         "description": "FullHDFilmizlesene",
-        "fileSize": 57087,
+        "fileSize": 57013,
         "repositoryUrl": "https://github.com/gitlihub0/xyze",
         "language": "tr",
         "tvTypes": [
             "Movie"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-8d23db8bc38ad8789635b921a1c0b76f60d5a19e70b9328fc35a5bc1a5b229bc"
+        "fileHash": "sha256-ff4efa81723934515a62d7f7f4d69c18f902d563b7242551bf6c3f38e28d10dc"
     },
     {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/Turkdizileri.cs3",
