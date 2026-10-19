@@ -66,21 +66,6 @@
         "jarHash": "sha256-677bced9dbd526176ede5a77f65df4b9eea8c410cabe1a224ddc9aa6618d9c45"
     },
     {
-        "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/int.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "inat-box",
-        "internalName": "inat-box",
-        "authors": [
-            "pltmustafa"
-        ],
-        "description": "InatBox",
-        "fileSize": 55860,
-        "repositoryUrl": "https://github.com/gitlihub0/xyze",
-        "language": "tr",
-        "apiVersion": 1
-    },
-    {
         "url": "https://raw.githubusercontent.com/gitlihub0/xyze/builds/KraptorPlus.cs3",
         "status": 1,
         "version": 86,
